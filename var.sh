@@ -9,3 +9,5 @@ b=abs
 
 echo $a
 echo value of a is $a
+c a+10
+echo $c
