@@ -9,7 +9,7 @@ This is my first push , i am going to add this
 4) git push
 ### adding changes
 1) git clone repositries: download everything from standalone code
-steps
+steps hi hello
  create folder of your name in repostries
  select read me file
  than copy link of code from github
