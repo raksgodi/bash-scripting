@@ -9,4 +9,5 @@ b=abc
 d=150
 
 DATE_COMMAND=$(date +%F)
+LOGGEDIN_USERS=$(who | wc -l)
 
