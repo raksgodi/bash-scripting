@@ -30,3 +30,6 @@ echo "Prining the PID of the script that we are running $$"
 
 read -p "enetr your name: " name
 echo "your name is : "$name 
+
+read -p name
+echo $name
