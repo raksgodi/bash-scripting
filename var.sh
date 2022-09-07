@@ -1,13 +1,7 @@
-#!/bin/bash
+#!/bin/bash 
 
-a=10
-# a is integer 
-b=abs
-# abs is string
+echo line1
+echo line2   
 
-### everthing in bash is default string
 
-echo $a
-echo value of a is $a
-c=10+10
-echo $c
+echo -e "line12\nline13"
