@@ -28,8 +28,8 @@ echo "Printing the vairables that we have passed in the script $@"
 echo "Printing the number vairables that we have passed in the scrip $#"
 echo "Prining the PID of the script that we are running $$"
 
-read -p "enetr your name: " name
-echo "your name is : "$name 
+#read -p "enetr your name: " name
+#echo "your name is : "$name 
 
 read name
 echo $name
