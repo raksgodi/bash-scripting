@@ -5,3 +5,4 @@ echo line2
 
 
 echo -e "line12\nline13"
+echo $0
